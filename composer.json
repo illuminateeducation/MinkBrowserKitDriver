@@ -1,5 +1,5 @@
 {
-    "name":         "behat/mink-browserkit-driver",
+    "name":         "illuminateeducation/mink-browserkit-driver",
     "description":  "Symfony2 BrowserKit driver for Mink framework",
     "keywords":     ["Symfony2", "Mink", "testing", "browser"],
     "homepage":     "http://mink.behat.org/",
@@ -16,7 +16,7 @@
 
     "require": {
         "php":                  ">=5.3.6",
-        "behat/mink":           "^1.7.1@dev",
+        "illuminateeducation/mink":           "^1.7.1@dev",
         "symfony/browser-kit":  "~2.3|~3.0",
         "symfony/dom-crawler":  "~2.3|~3.0"
     },
